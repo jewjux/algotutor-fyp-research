@@ -1,0 +1,17 @@
+openai
+python-dotenv
+langchain
+langchain_openai
+faiss-cpu
+PyPDF2
+langchain-community
+langgraph
+nltk
+ragas==0.1.14
+openpyxl
+
+texlive-xetex
+texlive-fonts-recommended
+texlive-plain-generic
+
+pandoc
